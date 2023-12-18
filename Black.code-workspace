@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Black"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#053430",
+			"titleBar.activeBackground": "#074943",
+			"titleBar.activeForeground": "#ECFDFC"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Black"
+	}
+}
